@@ -1,0 +1,12 @@
+E:\Works\NSASMobile\NSASMobile\bin\Debug\netstandard2.0\NSASMobile.deps.json
+E:\Works\NSASMobile\NSASMobile\bin\Debug\netstandard2.0\NSASMobile.dll
+E:\Works\NSASMobile\NSASMobile\bin\Debug\netstandard2.0\NSASMobile.pdb
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.csprojAssemblyReference.cache
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.csproj.CoreCompileInputs.cache
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.AssemblyInfoInputs.cache
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.AssemblyInfo.cs
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.dll
+E:\Works\NSASMobile\NSASMobile\obj\Debug\netstandard2.0\NSASMobile.pdb
